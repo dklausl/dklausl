@@ -2,8 +2,7 @@
 layout: default
 title: About
 ---
-![]({{ '/assets/img/KL_Bild1.jpg' | relative_url }}){: width="300" }
-
+![]({{ '/assets/img/KL_Bild1.jpg' | relative_url }})
 ## Über uns
 
 **DKLConcertmanagement** ist eine in Karlsruhe ansässige Konzertagentur, die in Mitteleuropa Sänger, Instrumentalisten und Dirigenten im Bereich der klassischen Musik vertritt.<br> 
