@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-![]({{ '/assets/img/KL_Bild1.jpg' | relative_url }})
+![]({{ '/assets/img/KL_Bild1.jpg' | relative_url }}){: width="300" }
 
 ## Über uns
 
