@@ -121,3 +121,15 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+DKLConcertmanagement ist eine in Karlsruhe ansässige Konzertagentur, die in Mitteleuropa Sänger, Instrumentalisten und Dirigenten im Bereich der klassischen Musik vertritt.
+Dabei handelt es sich um ausgewählte Künstler, die sich durch besonders ungewöhnliche und neuartige Interpretationsansätze bei Werken vom Barock bis in die Moderne auszeichnen.
+Ihr Gründer ist der Unternehmer Dr. Klaus Lange, der am Dr. Hoch´schen Konservatorium und an der Musikhochschule in Frankfurt (Main) Klavier zu Beginn seiner beruflichen Laufbahn studiert hat.
+Dr. Lange arbeitet pro bono und betreut schwerpunktmäßig das Vertragsmanagement. Die Künstler sollten bereits über eine eigene Webpräsenz verfügen.
+
+
+DKLConcertManagement
+Stephanienstr. 17
+76133 Karlsruhe
+Deutschland
+Email	ks.lange@t-online.de
+www.dklconcertmanagement.de
